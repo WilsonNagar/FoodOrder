@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "778670204198",
+    "firebase_url": "https://foodorder-ff7a2.firebaseio.com",
+    "project_id": "foodorder-ff7a2",
+    "storage_bucket": "foodorder-ff7a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778670204198:android:ad711ece30e07469",
+        "android_client_info": {
+          "package_name": "com.wilson.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778670204198-rvlhgf1f0qq8f0v7sjesrlj61ppmva75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wilson.foodorder",
+            "certificate_hash": "9cb1a63b56e21a3b98136abda5c4f28d5c152214"
+          }
+        },
+        {
+          "client_id": "778670204198-ngkh2jpf12fvbjh1rug0k7igafkqhc0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6SuqCqtefbNJWxCfP20n23aG0qEJCzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778670204198-ngkh2jpf12fvbjh1rug0k7igafkqhc0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
